@@ -1,0 +1,11 @@
+{
+  "name": "contact_form_app",
+  "version": "1.0.0",
+  "description": "A simple contact form application with Node, Bootstrap and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
