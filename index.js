@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
     return res.redirect("index.html");
 });
 
-app.post("/formFillIp", (req, res) => {
+app.post("/formFillUp", (req, res) => {
     const name = req.body.name;
     const reason = req.body.reason;
     const email = req.body.email;
